@@ -1,4 +1,4 @@
-2020-11-05
+2020-11-20
 * Updates to Visio stencils.
 * Addition of OmniGraffle stencils and procedure.
 * Addition of PowerPoint stencils.
