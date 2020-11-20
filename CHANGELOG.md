@@ -2,6 +2,7 @@
 * Updates to Visio stencils.
 * Addition of OmniGraffle stencils and procedure.
 * Addition of PowerPoint stencils.
+* Addition of .svg files.
 
 2019-10-03
 * Corrected issues with the vmware-sddc-icons.vssx file, added vmware-sddc-template.vsdx, and repackaged.
