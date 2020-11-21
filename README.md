@@ -44,7 +44,7 @@ You can now drag and drop the required stencils to your canvas and create diagra
  
 ## Dos and Don'ts:
 
-* Do use the Arial Regular font.
+* Do use the Metropolis font.
 * Do create the text blocks first to determine if a design can fit in the maximum width when a graphic may contain a lot of text
 * Do not use a type size smaller than 11 points.
 * Do not scale the icons and shapes. They will appear different than all other graphics in the documentation.
