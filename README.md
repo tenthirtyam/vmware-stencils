@@ -42,7 +42,7 @@ You can now drag and drop the required stencils to your canvas and create diagra
 
 You can now drag and drop the required stencils to your canvas and create diagrams.
  
-## Diagrams.net (draw.io) web and desktop appe
+## Diagrams.net (draw.io) web and desktop app
 1. Download and extract the attached archive: `vmvmw_stencils-<release>.zip`.
 2. Drag and drop the icons and Colors and Boxes files into the app
     * **Icons**: `vmw_icons.vssx`
