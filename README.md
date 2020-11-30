@@ -23,7 +23,7 @@ You can now drag and drop the required stencils to your canvas and create diagra
 
 **Procedure:**
 
-1. Download and extract the attached archive: `vmvmw_stencils-<release>.zip`.
+1. Download and extract the attached archive: `vmw_stencils-<release>.zip`.
 2. The archive includes the following files for OmniGraffle:
     * **Palette**: `vmw.clr`
     * **Icons**: `vmw_icons.gstencil`
@@ -43,7 +43,7 @@ You can now drag and drop the required stencils to your canvas and create diagra
 You can now drag and drop the required stencils to your canvas and create diagrams.
  
 ## Diagrams.net (draw.io) web and desktop app
-1. Download and extract the attached archive: `vmvmw_stencils-<release>.zip`.
+1. Download and extract the attached archive: `vmw_stencils-<release>.zip`.
 2. Drag and drop the Visio files for icons and Colors and Boxes files into the app
     * **Icons**: `vmw_icons.vssx`
     * **Colors and Boxes**: `vmw_colors.vssx`
