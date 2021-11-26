@@ -1,6 +1,6 @@
 # VMware Stencils for Visio and OmniGraffle
 
-## Visio for Windows
+> **IMPORTANT**: THIS PROJECT IS ARCHIVED.<br/>
 
 **Procedure**:
 
